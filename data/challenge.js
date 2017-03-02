@@ -9,7 +9,7 @@ export default {
   },
 
   ablay: {
-    name: 'Diyaz',
+    name: 'Ablay',
     items: [
 
     ],
