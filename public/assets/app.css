@@ -540,6 +540,6 @@ h2 {
   height: 126px;
   margin: 45px auto 0;
   display: block;
-  background: url("/public/images/logo.png") no-repeat center center;
+  background: url("public/images/logo.png") no-repeat center center;
   background-size: 100% 100%;
 }

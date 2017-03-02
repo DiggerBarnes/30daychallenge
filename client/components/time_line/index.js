@@ -7,7 +7,7 @@ import { getDays } from './utils';
 
 class TimeLine extends PureComponent {
   renderItem(item) {
-    const url = item || '/public/images/not_done.jpg';
+    const url = item || 'public/images/not_done.jpg';
     return (
       <span className="c-time_line-item" style={{ backgroundImage: `url(${url})` }} />
     );
