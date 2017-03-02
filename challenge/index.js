@@ -4,7 +4,7 @@ window.__challenge__ = {
   diyaz: {
     name: 'Diyaz',
     items: [
-
+      'https://d13yacurqjgara.cloudfront.net/users/31348/screenshots/3334019/untitled-1.jpg',
     ],
   },
 
