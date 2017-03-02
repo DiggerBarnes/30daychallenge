@@ -68,5 +68,9 @@
     "transform": [
       "babelify"
     ]
+  },
+
+  "browser": {
+    "challenge": "./challenge/client.js"
   }
 }

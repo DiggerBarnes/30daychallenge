@@ -1,4 +1,4 @@
-import data from '../../../data/challenge';
+import challenge from 'challenge';
 
 import React, { PureComponent } from 'react';
 import Layout from '../../components/layout';
@@ -12,9 +12,9 @@ class Home extends PureComponent {
         <div className="c-home-wrapper">
           <span className="c-home-logo" />
           <TimeLine
-            startDate={data.date}
-            participantA={data.diyaz}
-            participantB={data.ablay}
+            startDate={challenge.date}
+            participantA={challenge.diyaz}
+            participantB={challenge.ablay}
           />
         </div>
       </Layout>

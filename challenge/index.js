@@ -1,4 +1,4 @@
-export default {
+window.__challenge__ = {
   date: '2017-03-03',
 
   diyaz: {
