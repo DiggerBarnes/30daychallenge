@@ -1,2 +1,1 @@
-# windi
-Application to track wendler strength training program
+# 30 day challenge
