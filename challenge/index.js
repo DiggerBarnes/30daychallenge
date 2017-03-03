@@ -4,7 +4,7 @@ window.__challenge__ = {
   diyaz: {
     name: 'Diyaz',
     items: [
- 
+      'https://cs7055.userapi.com/c812625/u382125570/docs/7027cedbd238/day_1.jpg?extra=HylLN9ncg_2N7SvOV0j3dGtjPmmLs6cJR_tjR8vHdXr_ffYVepebYnRct1lqx0F6hMTAylrS-jhI-nYO5LdcTtOxTMr7O4IWtqW2ZC5rfCEspKRazhpfRbXXAQ',
     ],
   },
 
