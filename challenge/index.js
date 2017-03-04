@@ -12,7 +12,7 @@ window.__challenge__ = {
     name: 'Ablay',
     items: [
       'http://i.imgur.com/QAb0gBQ.jpg',
-      'http://i.imgur.com/qxKnKl2.jpg',
+      'http://i.imgur.com/NdKQdoF.jpg',
     ],
   },
 };
