@@ -4,14 +4,15 @@ window.__challenge__ = {
   diyaz: {
     name: 'Diyaz',
     items: [
-
+      'http://i.imgur.com/CuMUPte.jpg',
     ],
   },
 
   ablay: {
     name: 'Ablay',
     items: [
-
+      'http://i.imgur.com/QAb0gBQ.jpg',
+      'http://i.imgur.com/NdKQdoF.jpg',
     ],
   },
 };
