@@ -471,6 +471,20 @@ h2 {
   margin: 0;
   font-size: 36px;
 }
+a {
+  color: #515c9a;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.c-footer {
+  padding: 15px;
+  text-align: center;
+}
+.c-layout .c-footer {
+  margin-top: 15px;
+}
 .c-time_line-container {
   width: 100%;
   display: table;

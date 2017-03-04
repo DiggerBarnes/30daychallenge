@@ -1,6 +1,7 @@
 import React from 'react';
 import classNames from 'classnames';
 import Meta from '../meta';
+import Footer from '../footer';
 
 
 const Layout = (props) => (
@@ -10,6 +11,7 @@ const Layout = (props) => (
       defaultTitle="30 Day Challenge"
     />
     {props.children}
+    <Footer />
   </article>
 );
 
