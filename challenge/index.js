@@ -5,6 +5,7 @@ window.__challenge__ = {
     name: 'Diyaz',
     items: [
       'http://i.imgur.com/CuMUPte.jpg',
+      'http://imgur.com/a/KiFbQ.jpg',
     ],
   },
 
